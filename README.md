@@ -13,11 +13,11 @@ See the live simulation at : https://hemant27031999.github.io/Prey_Predator_Gene
 
 180 seconds             |  240 seconds |    300 seconds     
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i1.png)  |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i2.png) |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i3.png)
+![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i4.png)  |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i5.png) |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i6.png)
 
 360 seconds             |  420 seconds |    480 seconds     
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i1.png)  |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i2.png) |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i3.png)
+![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i7.png)  |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i8.png) |  ![](https://github.com/Hemant27031999/Prey_Predator_Genetic_Algorithm/blob/master/Images/i9.png)
 
 
 This implementation explores techniques for simulating the process of evolution in an ecosystem of pseudo-living beings. The objects that move about the screen meet each other, mate, and pass their genes on to a new generation and this ensures the continuation of fittest of all beings only as the world evolves.
